@@ -36,11 +36,10 @@ I'm dedicated to leveraging AI for everyday challenges, constantly exploring how
 
 
 ## 🚀 What I'm Learning:
-- Advanced Reinforcement Learning
 - Large Language Model fine-tuning
 - MLOps best practices
-- Edge AI deployment
-- Quantum Machine Learning
+- Neural  Networks and Transformers
+- Financial Markets and Quant
 
 
 ---
