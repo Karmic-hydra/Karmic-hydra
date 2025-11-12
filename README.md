@@ -29,9 +29,6 @@ I'm dedicated to leveraging AI for everyday challenges, constantly exploring how
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
-<p align="center">
-<img src="https://www.google.com/search?q=https://github-readme-activity-graph.vercel.app/graph%3Fusername%3Dhariom%26bg_color%3D1F222E%26color%3DF8F8F2%26line%3D50FA7B%26point%3DFFB86C%26area%3Dtrue%26hide_border%3Dtrue" alt="Hariom's GitHub Activity Graph" />
-</p>
 
 ## 🚀 What I'm Learning:
 - Large Language Model fine-tuning
